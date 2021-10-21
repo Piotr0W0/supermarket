@@ -9,10 +9,10 @@ public class BasicScript : MonoBehaviour
     float targetYPosition;
 
     [SerializeField]
-    float targetScale
+    float targetScale;
 
     [SerializeField]
-    float animationTime
+    float animationTime;
 
     void OnEnable()
     {
